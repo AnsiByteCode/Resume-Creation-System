@@ -1,0 +1,68 @@
+{
+  "_from": "react-dropdown-multiselect@^1.0.0",
+  "_id": "react-dropdown-multiselect@1.0.0",
+  "_inBundle": false,
+  "_integrity": "sha1-UEmRJvRqkQilYCCHfoSngedS4MU=",
+  "_location": "/react-dropdown-multiselect",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "range",
+    "registry": true,
+    "raw": "react-dropdown-multiselect@^1.0.0",
+    "name": "react-dropdown-multiselect",
+    "escapedName": "react-dropdown-multiselect",
+    "rawSpec": "^1.0.0",
+    "saveSpec": null,
+    "fetchSpec": "^1.0.0"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/react-dropdown-multiselect/-/react-dropdown-multiselect-1.0.0.tgz",
+  "_shasum": "50499126f46a9108a56020877e84a781e752e0c5",
+  "_spec": "react-dropdown-multiselect@^1.0.0",
+  "_where": "D:\\ResumeCreationSystem\\TFS\\ResumeManagementSystem\\Source\\Client",
+  "author": {
+    "name": "Anton Strömkvist",
+    "email": "hi@ahst.ro",
+    "url": "http://ahst.ro"
+  },
+  "bugs": {
+    "url": "https://github.com/ahstro/react-dropdown/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "classnames": "^2.1.3"
+  },
+  "deprecated": false,
+  "description": "React multiselect dropdown component",
+  "devDependencies": {
+    "babel": "^4.7.16",
+    "watchify": "^2.6.0"
+  },
+  "homepage": "https://github.com/ahstro/react-dropdown-multiselect",
+  "keywords": [
+    "react",
+    "react-component",
+    "component",
+    "dropdown",
+    "multiselect",
+    "multi",
+    "select"
+  ],
+  "license": "MIT",
+  "main": "dist/index.js",
+  "name": "react-dropdown-multiselect",
+  "peerDependencies": {
+    "react": "^0.14.0",
+    "react-dom": "^0.14.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/ahstro/react-dropdown.git"
+  },
+  "scripts": {
+    "build": "babel index.js > dist/index.js"
+  },
+  "version": "1.0.0"
+}

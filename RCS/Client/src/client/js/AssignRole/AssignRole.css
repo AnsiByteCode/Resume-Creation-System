@@ -1,0 +1,21 @@
+.wellStyle {
+  max-height: 600px;
+  overflow: auto;
+}
+
+.divStyle{
+max-height: 600px;
+overflow: auto;
+}
+
+.containerStyle{
+ margin-top: 25px;
+}
+
+.liStyle {
+cursor: 'pointer'!important;
+}
+
+.marginRight{
+  margin-right: 5px !important;
+}

@@ -1,0 +1,219 @@
+.button {
+  margin-left: 8px;
+}
+
+.margin-top30 {
+  margin-top: 11px;
+}
+
+label, p {
+  color: #16325c;
+}
+
+h1, ul {
+  margin: 0px !important;
+}
+
+input.active:invalid {
+  box-shadow: 0 0 5px 1px red;
+}
+
+textarea.active:invalid {
+  box-shadow: 0 0 5px 1px red;
+}
+
+select.active:invalid {
+  box-shadow: 0 0 5px 1px red;
+}
+
+.error {
+  font-weight: normal;
+  color: red;
+  font-size: 12px;
+  margin-top: 5px;
+}
+
+.floatRight{
+    float: right;
+}
+
+.controlFloatRight{
+    float: right !important;
+}
+
+.BorderRed {
+  box-shadow: 0 0 5px 1px red !important;
+}
+.marginLeft2P {
+    margin-left: 3% !important;
+    margin-right: 2% !important;
+}
+
+.PaddingLeft0Px {
+  padding-left: 0px !important;
+}
+
+.Padding0PxForDiv {
+  padding: 0px !important;
+}
+
+.PaddingRight0Px {
+  padding-right: 0px !important;
+}
+
+.MarginLeft1Per {
+  margin-left: 1%;
+}
+
+.marginBtn {
+  margin-right: 4%;
+  margin-left: 1%;
+}
+
+.marginBtnCancel{
+      margin-right: 15px !important;
+}
+
+.marginSubmit {
+  margin-left: 80%;
+}
+
+.marginHeader {
+  margin-left: 40px;
+}
+
+.paddingTop {
+  padding-top: 1%;
+}
+
+.sendMailButton {
+  margin-left: 10px !important;
+  margin-bottom: -64px !important;
+}
+
+.displayNone {
+  display: none !important;
+}
+
+.margin-top {
+  margin-top: 2%;
+}
+
+.margin-top7Per {
+    margin-top: 7%;
+  }
+.margintop1Percent {
+  margin-top: 1%;
+}
+
+input:not([type]), input[placeholder="Filter"] {
+  float:right;
+  width:200px;
+  font-size: 15px !important;
+}
+
+.resizeNone {
+  resize: none;
+}
+
+.marginRight1Per {
+  margin-right: 1%;
+}
+
+.header {
+  font-size: large;
+  font-weight: bold;
+  color: #16325c;
+}
+
+.formBox {
+  width: 380px;
+  margin: 4em auto;
+  padding: 3em 2em 2em 2em;
+  background: #fafafa;
+  border: 1px solid #ebebeb;
+  box-shadow: rgba(0,0,0,0.14902) 0px 1px 1px 0px,rgba(0,0,0,0.09804) 0px 1px 2px 0px;
+}
+
+.marginLeft8P {
+   margin-left: 10%;
+}
+
+.iFrameClass{
+  height: 0px;
+  width: 0px;
+  position: absolute;
+}
+
+@media print {
+    @page {
+      size: Landscape;
+      font-size: 26px;
+    }
+
+    .no-print { display: none; }
+ }
+
+.margin-top5Per{
+    margin-top: 5%;
+}
+
+.zIndex {
+    z-index: 100;
+}
+
+.Dropdown-control{
+    padding-top: 7px;
+    padding-left: 14px;
+    border-radius: 4px;
+}
+
+.react-bs-table-container input[type=text] {
+/*.react-bs-table-container input {*/
+    width: 200px;
+    padding: 0 20px;
+}
+
+.react-bs-table-container input,
+.react-bs-table-container input::-webkit-input-placeholder {
+    font-size: 13px;
+    line-height: 3;
+}
+
+.displayText {
+    white-space: normal !important;
+}
+
+/*Modal*/
+.modelWidth40 {
+	max-width: 95% !important;
+    width: 40% !important;
+}
+
+.modelWidth35 {
+	 max-width: 95% !important;
+   width: 35% !important;
+}
+
+.colorBlack {
+    color: #333 !important;
+}
+
+.form-group {
+  margin-bottom: 12px !important;
+}
+
+.textarea-save-btn{
+  display: none !important;
+}
+
+.Dropdown{
+  height: 34px;
+}
+
+.Dropdown-control {
+  height: 34px;
+  padding-top: 6px;
+  padding-left: 15px;
+  color: #555;
+}
