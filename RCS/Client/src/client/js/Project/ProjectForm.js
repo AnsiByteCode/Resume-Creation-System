@@ -1,5 +1,6 @@
 import React from 'react';
-import Dropdown from 'react-dropdown-multiselect';
+//import Dropdown from 'react-dropdown-multiselect';
+import Dropdown from './../components/react-dropdown-multiselect';
 import Ddl from'../components/Ddl';
 import projectActions from '../../actions/ProjectActions';
 import constants from '../../constants/Constants';
